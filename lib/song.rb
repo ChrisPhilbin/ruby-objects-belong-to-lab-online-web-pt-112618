@@ -10,7 +10,7 @@ class Song
 
 end
 
-lp = Artist.new("Linkin Park")
+lp = Artist.new
 new_divide = Song.new("New Divide")
 
 new_divide.artist = lp
